@@ -16,8 +16,8 @@ python process.py
 
 ### Input
 
-- Homo_sapiens.gene_info.gz
-  - The file from NCBI is a compressed archive containing detailed information on genes.
+- protein_coding_gene.csv
+  - The file is a CSV containing extracted data on protein-coding genes from the NCBI dataset.
 - Homo_sapiens_expr_simple.tsv.gz
   - The file from [Bgee](https://www.bgee.org/) is a dataset providing summarized baseline presence or absence expression calls for human genes, aggregating information across various data types to indicate where each gene is actively expressed in the body.
 
